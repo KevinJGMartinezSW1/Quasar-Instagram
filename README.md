@@ -147,3 +147,7 @@ npm install -g @quasar/icongenie
 ```
 npm run icons
 ```
+# Created by: KevinJGMartinez
+
+# Made by courses and documentation
+ * https://quasar.dev
